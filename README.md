@@ -98,3 +98,7 @@ This has been fast and easy, but let's take it one step futher. You only want ce
 ##Step 6 (Black Diamond): Integrate with Angular
 Let's make the real-time communication part of an Angular service, and integrate Angular into your Sails app. 
 You probably won't be able to use Yeoman very easily here, so you'll have to include the script tags for Angular as well as generate your own application module, your own controllers, and your own service. [This article](http://www.html5rocks.com/en/tutorials/frameworks/angular-websockets/) can help you with the Angular-to-socket communication, and poking around [this repo](https://github.com/levid/angular-sails-socketio-mongo-demo) can help you figure out how to organize and import your Angular files.
+
+## Copyright
+
+© DevMountain LLC, 2016. Unauthorized use and/or duplication of this material without express and written permission from DevMountain, LLC is strictly prohibited. Excerpts and links may be used, provided that full and clear credit is given to DevMountain with appropriate and specific direction to the original content.
